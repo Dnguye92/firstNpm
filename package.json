@@ -1,9 +1,17 @@
 {
 	"author": "Dylan Nguyen",
-	"name": "censorify",
+	"name": "censorifyDylan",
 	"version": "0.1.1",
 	"description": "Censors words out of text",
 	"main": "censortext",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Dnguye92/firstNpm"
+	},
+	"keywords": [
+		"censor",
+		"words"
+	],
 	"dependencies": {},
 	"engines": {
 		"node": "*"
